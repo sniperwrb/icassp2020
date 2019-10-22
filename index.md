@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[demo](demo1.pptx)
+[demo](https://github.com/sniperwrb/icassp2020/blob/master/demo1.pptx)
 
 You can use the [editor on GitHub](https://github.com/sniperwrb/icassp2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
